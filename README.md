@@ -196,15 +196,6 @@ http://localhost:8000/redoc/
 ## AI Tools Used
 
 - ChatGPT
-- GitHub Copilot
-
----
-
-## Sample Prompt
-
-```
-Generate Django REST CRUD API with Service Layer and Repository Pattern.
-```
 
 ---
 
